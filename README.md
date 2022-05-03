@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sharma2rachit
 - 👀 I’m interested in coding in c++
-- 🌱 I’m currently learning python,java
+- 🌱 I’m currently learning python, java, kotlin
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me rs188162@gmail.com
 
